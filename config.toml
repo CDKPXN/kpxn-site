@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://peaceful-franklin-b04ce2.netlify.com/"
+baseurl = "https://kpxn.companiontek.com/"
 languageCode = "en-us"
 title = "Agency"
 theme = "hugo-agency-theme"
